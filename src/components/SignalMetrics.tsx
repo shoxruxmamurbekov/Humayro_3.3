@@ -1,0 +1,1 @@
+export function SignalMetrics(){return <div className="wrap metrics"><div className="metric"><small>GLOBAL ACTIVITY</small><b>8,421</b></div><div className="metric"><small>AI ANALYZED</small><b>3,208</b></div><div className="metric"><small>TRENDING SIGNALS</small><b>147</b></div></div>}
