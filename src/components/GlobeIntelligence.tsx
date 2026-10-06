@@ -1,0 +1,1 @@
+export function GlobeIntelligence(){return <section className="globe"><div className="globe-core"><div><b>GLOBAL SIGNALS</b><br/><small>Interactive globe integration point</small></div></div></section>}
