@@ -1,0 +1,1 @@
+export function BottomNav(){return <nav className="bottom"><b>Home</b><span>Signals</span><span>AI</span><span>Saved</span><span>Profile</span></nav>}
