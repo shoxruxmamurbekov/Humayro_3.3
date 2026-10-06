@@ -1,0 +1,1 @@
+export function SignalBar(){return <div className="signal"><div className="wrap"><span className="live">● LIVE SIGNAL</span><span>Global intelligence stream active</span><span>•</span><span>AI analysis updated continuously</span></div></div>}
