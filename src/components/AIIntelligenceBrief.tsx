@@ -1,0 +1,1 @@
+export function AIIntelligenceBrief(){return <section className="brief"><span className="eyebrow">HUMAYRO AI</span><h2>From headlines to intelligence.</h2><p>Render the existing Humayro 3.2 synthesis response here: confidence, trend score, key points, timeline, historical parallel and verified sources.</p></section>}
