@@ -1,0 +1,1 @@
+type Props={tag:string;title:string;source:string;time:string;score:number;onClick:()=>void};export function IntelligenceCard(p:Props){return <button className="card"onClick={p.onClick}><span className="tag">{p.tag}</span><h3>{p.title}</h3><div className="card-foot"><span>{p.source} · {p.time}</span><span>AI {p.score}%</span></div></button>}
