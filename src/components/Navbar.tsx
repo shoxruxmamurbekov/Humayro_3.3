@@ -1,0 +1,1 @@
+export function Navbar(){return <header className="nav"><div className="brand">HUMAYRO<small>GLOBAL INTELLIGENCE</small></div><nav className="links"><span>Intelligence</span><span>World</span><span>Markets</span><span>Technology</span><span>Regions</span><span>Search</span><span>LIVE</span></nav><div>UZ⌄</div></header>}
